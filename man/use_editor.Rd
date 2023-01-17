@@ -4,7 +4,7 @@
 \alias{use_editor}
 \title{Loads libraries for this package}
 \usage{
-use_editor(API)
+use_editor()
 }
 \value{
 JS Files

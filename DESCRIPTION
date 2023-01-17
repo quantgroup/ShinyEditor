@@ -11,7 +11,7 @@ Depends:
 Imports: 
     shiny
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.2
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/deepanshu88/ShinyEditor/
 BugReports: https://github.com/deepanshu88/ShinyEditor/issues/

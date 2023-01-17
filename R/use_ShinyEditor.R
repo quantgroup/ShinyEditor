@@ -5,7 +5,7 @@
 #' @return JS Files
 #' @export
 
-use_editor <- function(API) {
+use_editor <- function() {
 
   tagList(shiny::singleton(
     shiny::tags$head(

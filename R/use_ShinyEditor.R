@@ -11,7 +11,7 @@ use_editor <- function() {
     shiny::tags$head(
       shiny::tags$script(
         src = paste0(
-          "https://cdnjs.cloudflare.com/ajax/libs/tinymce/6/tinymce.min.js"
+          "https://cdnjs.cloudflare.com/ajax/libs/tinymce/5.10.7/tinymce.min.js"
         ),
         referrerpolicy = "origin"
       ),
